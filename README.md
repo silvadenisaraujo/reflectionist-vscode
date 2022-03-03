@@ -23,17 +23,6 @@ And when you want you can just delete them!
 
 If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
 ## Release Notes
 
 Users appreciate release notes as you update your extension.
@@ -45,3 +34,7 @@ Initial release of reflections initially for my own use but open for the communi
 ### 1.0.1
 
 Documentation fixes and automated deployment
+
+### 1.0.2
+
+Cleaned README

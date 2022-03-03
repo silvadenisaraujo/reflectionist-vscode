@@ -18,3 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Changed
 - Updated README
+
+## [1.0.2]
+### Changed
+- Updated README
