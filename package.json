@@ -2,6 +2,7 @@
   "name": "reflectionist",
 	"displayName": "reflectionist",
 	"description": "Reflect on your day!",
+	"repository": "https://github.com/silvadenisaraujo/reflectionist-vscode",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.64.0"
