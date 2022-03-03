@@ -10,3 +10,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - First extension version
 - Configure publisher
+
+## [1.0.1]
+
+### Added
+- Github Actions
+
+### Changed
+- Updated README
