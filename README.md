@@ -1,6 +1,6 @@
 # reflectionist README
 
-A vscode extensions that helps you to reflect on your day.
+A vscode extension that helps you to reflect on your day and help you organize your thoughts for tomorrow!
 
 ## Features
 
@@ -11,30 +11,36 @@ Reflection is important and most of us do it less frequent than we should, so I 
 
 The main feature of this extension is to ask you a couple of questions to help you reflect on your day and to plan ahead.
 
+![Doing a reflection](https://media.giphy.com/media/7EJBMbPMz32FV1jOHe/giphy.gif)
+
 ### Look back on your reflections.
 
 Your reflections will be stored as a Markdown file in your user root folder, so you can look back on your reflections.
+
+![Opening reflections](https://media.giphy.com/media/u8Q4evCXFKDhAle83B/giphy.gif)
 
 ### Burn them.
 
 And when you want you can just delete them!
 
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+![Deleting reflections](https://media.giphy.com/media/7nhrGsxl8P8W9430L6/giphy.gif)
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 1.0.3
 
-### 1.0.0
+- Added emojis to answer list of 'How are you feeling now?'
+- Improved documentation with tutorial gifs
+- Cleaned repo from generated files from vscode extension yeoman
 
-Initial release of reflections initially for my own use but open for the community.
+### 1.0.2
+
+Cleaned README
 
 ### 1.0.1
 
 Documentation fixes and automated deployment
 
-### 1.0.2
+### 1.0.0
 
-Cleaned README
+Initial release of reflections initially for my own use but open for the community.

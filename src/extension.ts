@@ -10,7 +10,7 @@ const HOME_DIR = os.homedir();
  * Reflect command that asks reflective questions and stores in the reflections file.
  */
 async function reflectCommand() {
-	let selection  = await vscode.window.showQuickPick(['Happy', 'Okay', 'Angry', 'Sad'], {
+	let selection  = await vscode.window.showQuickPick(['😀 Happy', '🙂 Okay', '😡 Angry', '😔 Sad'], {
 		placeHolder: 'How are you feeling now?',
 		canPickMany: false
 	});
@@ -42,7 +42,7 @@ async function reflectCommand() {
 	} else {
 		fs.appendFileSync(filePath, reflection);
 	}
-	vscode.window.showInformationMessage('Reflection saved! 💪');
+	vscode.window.showInformationMessage('Reflection saved! 💭');
 }
 
 /**
